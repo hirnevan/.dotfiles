@@ -64,3 +64,4 @@ source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zs
 #source $HOME/.dynamic-colors/completions/dynamic-colors.zsh
 #test -r "~/.dir_colors" && eval $(dircolors ~/.dir_colors)
 
+alias mon2cam="deno run --unstable -A -r -q https://raw.githubusercontent.com/ShayBox/Mon2Cam/master/src/mod.ts"

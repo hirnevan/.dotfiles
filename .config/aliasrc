@@ -2,3 +2,4 @@ alias mon2cam="deno run --unstable -A -r -q https://raw.githubusercontent.com/Sh
 alias ls="ls --color"
 alias lsa="ls -a --color"
 alias config='/usr/bin/git --git-dir=$HOME/.dotfiles.git/ --work-tree=$HOME'
+alias l="ls --color"
